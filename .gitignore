@@ -1,0 +1,7 @@
+# Project exclude paths
+/custom-exceptions/target/
+/db-connections/target/
+/product/target/
+/sports-shop-feature/target/
+/validations/target/
+/input-getter/target/
