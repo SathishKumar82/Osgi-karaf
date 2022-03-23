@@ -1,0 +1,1 @@
+# Osgi-karaf
