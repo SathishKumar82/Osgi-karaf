@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Osgi-karaf.iml" filepath="$PROJECT_DIR$/.idea/Osgi-karaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-exceptions/custom-exceptions.iml" filepath="$PROJECT_DIR$/custom-exceptions/custom-exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-connections/db-connections.iml" filepath="$PROJECT_DIR$/db-connections/db-connections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/input-getter/input-getter.iml" filepath="$PROJECT_DIR$/input-getter/input-getter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product.iml" filepath="$PROJECT_DIR$/product/product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sports-shop-feature/sports-shop-feature.iml" filepath="$PROJECT_DIR$/sports-shop-feature/sports-shop-feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validations/validations.iml" filepath="$PROJECT_DIR$/validations/validations.iml" />
+    </modules>
+  </component>
+</project>

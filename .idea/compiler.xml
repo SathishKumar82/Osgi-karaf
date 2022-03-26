@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sports-shop-feature" />
+        <module name="product" />
+        <module name="validations" />
+        <module name="custom-exceptions" />
+        <module name="input-getter" />
+        <module name="db-connections" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="custom-exceptions" target="17" />
+      <module name="db-connections" target="17" />
+      <module name="input-getter" target="17" />
+      <module name="Osgi-karaf" target="17" />
+      <module name="product" target="17" />
+      <module name="sports-shop-feature" target="17" />
+      <module name="validations" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

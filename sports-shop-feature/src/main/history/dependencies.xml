@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.6.0" name="SportsShopFeature-1.0-SNAPSHOT">
+    <feature version="0.0.0">
+        <bundle>mvn:com.sathish/CustomExceptions/1.0-SNAPSHOT</bundle>
+        <bundle>mvn:com.sathish/DBConnections/1.0-SNAPSHOT</bundle>
+        <bundle>mvn:com.sathish/ModelControllerServiceDao/1.0-SNAPSHOT</bundle>
+        <bundle>mvn:com.sathish/Validations/1.0-SNAPSHOT</bundle>
+        <bundle>mvn:com.sathish/View/1.0-SNAPSHOT</bundle>
+        <bundle>mvn:org.postgresql/postgresql/42.3.1</bundle>
+    </feature>
+</features>
